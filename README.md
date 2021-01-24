@@ -1,3 +1,6 @@
+![alt text](https://github.com/Raja-mishra1/GitHub_Jobs/blob/main/images/Screenshot%20from%202021-01-24%2014-57-16.png)
+![alt text](https://github.com/Raja-mishra1/GitHub_Jobs/blob/main/images/Screenshot%20from%202021-01-24%2014-58-54.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
